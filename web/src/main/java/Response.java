@@ -9,7 +9,7 @@ public class Response {
     /**
      * 根目录
      */
-    private static final String ROOT = "E:\\web_server\\src\\main\\web\\index.html";
+    private static final String ROOT = "E:\\Java项目\\web-server\\web\\src\\main\\web\\index.html";
 
     /**
      * 输出流
